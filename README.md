@@ -1,0 +1,1 @@
+Perspective is an annotation-based GUI framework for spigot and paper that supports nested menus

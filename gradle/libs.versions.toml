@@ -1,0 +1,5 @@
+[versions]
+org-spigotmc-spigot-api = "1.19-R0.1-SNAPSHOT"
+
+[libraries]
+org-spigotmc-spigot-api = { module = "org.spigotmc:spigot-api", version.ref = "org-spigotmc-spigot-api" }
